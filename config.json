@@ -8,7 +8,7 @@
     {
       "target": "\"index.html\"",
       "replace_by": "\"/\""
-    },
+    }
   ],
   "file_links_replacement": [
     {
@@ -31,6 +31,6 @@
       "move_to_subfolder": false,
       "apply_links_replacements": true,
       "apply_file_links_replacements": false
-    },
+    }
   ]
 }
