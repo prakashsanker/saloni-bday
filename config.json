@@ -4,6 +4,9 @@
     "build_path": "dist",
     "root_file_name": "index.html"
   },
+  "links_replacements": [
+
+  ],
   "file_links_replacement": [
     {
       "target": "\"css/",
