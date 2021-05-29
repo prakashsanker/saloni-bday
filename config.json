@@ -32,8 +32,8 @@
     {
       "name": "gallery",
       "filepath": "gallery.html",
-      "move_to_subfolder": true,
-      "apply_links_replacements": true,
+      "move_to_subfolder": false,
+      "apply_links_replacements": false,
       "apply_file_links_replacements": false
     }
   ]
